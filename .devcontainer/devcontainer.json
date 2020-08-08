@@ -5,6 +5,8 @@
 	"workspaceFolder": "/workspace",
   "extensions": [
      "ms-python.python",
+     "visualstudioexptteam.vscodeintellicode",
+     "pkief.material-icon-theme",
      "esbenp.prettier-vscode",
      "eamodio.gitlens",
      "ms-azuretools.vscode-docker",
