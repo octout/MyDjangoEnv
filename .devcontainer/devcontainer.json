@@ -12,4 +12,7 @@
      "ms-vscode.azure-account",
      "ms-vscode.vscode-node-azure-pack",
   ],
+  "settings": {
+    "workbench.colorTheme" : "Default Dark+"
+  }
 }

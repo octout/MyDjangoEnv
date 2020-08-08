@@ -1,3 +1,4 @@
 {
-    "_workbench.uiExtensions" : [ "peterjausovec.vscode-docker" ]
+    "_workbench.uiExtensions" : [ "peterjausovec.vscode-docker" ],
+    "workbench.colorTheme" : "Default Dark+"
 }
